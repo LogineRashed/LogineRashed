@@ -41,8 +41,9 @@ Today, I simplify complexity by applying **ML, AI, and analytics** to real-world
 ---
 
 ## 📫 Connect With Me  
-- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/logine-rashed/))  
-- [GitHub](https://github.com/LogineRashed)  
-- 📧 Email: loginerashed2004@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logine-rashed/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LogineRashed)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loginerashed2004@gmail.com)  
+
 
 ---
